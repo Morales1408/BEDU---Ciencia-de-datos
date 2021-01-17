@@ -9,4 +9,4 @@ Todos los archivos scripts dentro de las carpetas de los postworks fueron realiz
 * Manuel1471
 1. Manuel García
 2. manuel-garccia@hotmail.com
-* `falta el de Oscar`
+* `falta el de Omar`
